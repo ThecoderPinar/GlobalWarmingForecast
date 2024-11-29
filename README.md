@@ -148,7 +148,7 @@ If you found this project useful, please consider giving it a ⭐ on GitHub!
 
 <div align="center">
   <a href="https://github.com/ThecoderPinar/GlobalWarmingForecast">
-    <img src="https://img.shields.io/github/stars/your-repo/GlobalWarmingForecast?style=social" alt="GitHub Repo stars">
+    <img src="https://img.shields.io/github/stars/ThecoderPinar/GlobalWarmingForecast?style=social" alt="GitHub Repo stars">
   </a>
 </div>
 
